@@ -1,0 +1,28 @@
+
+body {
+    
+}
+
+.Company{
+    padding: 50px;
+}
+
+header, h1 {
+    background-color: lightblue;
+}
+
+header, li {
+    display: inline;
+    text-align: center;
+    margin: 30px;
+}
+
+.photo {
+    width: 450px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.detail1 {
+    display: inline;
+}
