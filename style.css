@@ -10,7 +10,14 @@ body {
 header, h1 {
     background-color: lightblue;
 }
+header, h2 {
+    text-align: left;
+}
 
+.photoX {
+    padding: 5px;
+    margin: 10px;
+}
 header, li {
     display: inline;
     text-align: center;
